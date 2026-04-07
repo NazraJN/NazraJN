@@ -22,8 +22,8 @@ I’m also on a journey towards becoming an MLOps Engineer, with a strong intere
 ![PySpark](https://img.shields.io/badge/PySpark-Intermediate-FDEE21?logo=apachespark&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-Intermediate-FF694B?logo=dbt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Intermediate-F05032?logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791?logo=postgresql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-Intermediate-F80000?logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?logo=postgresql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-Advanced-F80000?logo=oracle&logoColor=white)
 
 ---
 
