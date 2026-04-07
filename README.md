@@ -33,9 +33,7 @@ I’m also on a journey towards becoming an MLOps Engineer, with a strong intere
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NazraJN&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazraJN&layout=compact)
+---
 
 ## 📫 Let’s Connect
 
