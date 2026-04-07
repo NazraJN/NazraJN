@@ -18,12 +18,12 @@ I’m also on a journey towards becoming an MLOps Engineer, with a strong intere
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white)
+![R](https://img.shields.io/badge/R-003B57?logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?logo=apache&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?logo=apachespark&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![R](https://img.shields.io/badge/R-003B57?logo=r&logoColor=white)
 
 ---
 
