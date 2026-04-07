@@ -25,7 +25,15 @@ I’m also on a journey towards becoming an MLOps Engineer, with a strong intere
 * 📊 Visualization: Power BI, Apache Superset
 * ⚙️ Tools: Git
 
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql\&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?logo=apachespark\&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle\&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi\&logoColor=black)
+![Apache%20Superset](https://img.shields.io/badge/Superset-20A6C9?logo=apache\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
 
