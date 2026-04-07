@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nazra...
 
-...a practicing Data Scientist passionate about turning data into actionable insights and building scalable data solutions.
+...an Economist-Statitician & practicing Data Scientist passionate about turning data into actionable insights and building scalable data solutions.
 
 I’m also on a journey towards becoming an MLOps Engineer, with a strong interest in deploying and maintaining machine learning systems in production environments.
 
