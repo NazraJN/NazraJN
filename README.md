@@ -17,14 +17,6 @@ I’m also on a journey towards becoming an MLOps Engineer, with a strong intere
 ---
 
 ## 🛠️ Tech Stack
-
-* 💻 Languages: Python, SQL
-* 🗄️ Databases: PostgreSQL, Oracle SQL
-* 🔥 Big Data: PySpark
-* 🏗️ Data Engineering: dbt
-* 📊 Visualization: Power BI, Apache Superset
-* ⚙️ Tools: Git
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql\&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?logo=apachespark\&logoColor=black)
@@ -37,13 +29,15 @@ I’m also on a journey towards becoming an MLOps Engineer, with a strong intere
 
 ---
 
-## 📈 What I’m Working On
+## 📈 Current Projects...
 
-* Building data pipelines and transformation workflows
-* Practicing end-to-end data projects
-* Learning how to productionize machine learning models
 
 ---
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact)
 
 ## 📫 Let’s Connect
 
